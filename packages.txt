@@ -1,3 +1,0 @@
-libreoffice-writer
-tesseract-ocr
-tesseract-ocr-kor
