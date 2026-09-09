@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+openpyxl
+matplotlib
+qrcode[pil]
+filelock
+python-docx
+reportlab
+requests
+gspread
+google-auth
+scikit-learn
+pytesseract
+Pillow
